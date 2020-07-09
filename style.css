@@ -1,0 +1,139 @@
+.container{
+    margin-bottom: 25px;
+}
+* {
+    font-family: 'Poppins', sans-serif;
+}
+.top{
+    background-color: #F0FFF0;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: black;
+    font-weight: bold;
+}
+.navbar-light .navbar-nav .nav-link:hover{
+    color: lightgrey;
+}
+.row h6{
+    color: #FD511A;
+    font-size: 16px;
+}
+.btn-success{
+    border-radius: 33px;
+}
+.card-img-top{
+    width: 80px;
+    height: 83px;
+}
+
+.card-title{
+    color: #413960;
+    font-weight: 900;
+    font-size: 15px;
+
+}
+.card-text{
+    color: #585859;
+    font-size: 12px;
+}
+.card-body{
+    text-align: center;
+}
+.card {
+    padding-top: 30px;
+   background-color:  #F8FFFB;
+   
+  
+}
+.card:hover {
+    background: #FFFFFF;
+box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+border-radius: 10px;
+
+}
+
+.online-course{
+    margin-top: 8rem;
+}
+.online-course .btn{
+    flex-direction: start;
+}
+.online-course .card-text {
+    
+    font-size: 1rem;
+    color: #413960;
+}
+.online-course .card-body{
+   text-align: left;
+}
+.online-course .card-body h3{
+    font-weight: bold;
+}
+.online-course .card{
+  border-radius: 15px;
+  background-color: white;
+  box-shadow: 5px 5px 15px lightgrey;
+}
+
+.online-course .card-img-top {
+    width: 100%;
+    height: 230px;
+    object-fit: contain;
+}
+.online-course .card-footer{
+    border: none;
+    background-color:white ;
+    font-size: 1.2rem;
+    display: flex;
+    justify-content: space-between;
+}
+.online-course .card:hover,.card-footer:hover{
+    background-color: #F8FFFB ;
+    box-shadow: none;
+
+}
+
+
+.testimonial{
+    margin: 0rem auto;
+    padding: 6rem 0;
+}
+.testimonial-heading h1{
+    font-weight: 600;
+    margin-bottom: 5rem;
+}
+.media{
+    width: 60%;
+    margin: 5rem auto;
+}
+.media img{
+    height: 90px ;
+    width: 90px ;
+}
+.media-body p{
+    font-size: 1rem;
+    font-weight: 500;
+    padding-left: 20px;
+}
+
+
+.footer{
+    background-color:#282531;
+    padding: 4rem 0px 1rem 0px;
+}
+.footer ul li{
+    list-style: none;
+    color: white;
+    padding-bottom: 10px;
+}
+.footer ul li:hover{   
+    color: lightgrey;
+    cursor: pointer;
+}
+.last-footer{
+    margin: 0px auto;
+    padding-top: 5rem;
+    color: #c0c0c0;
+    font-weight: 500;
+    font-size: 0.9rem;
+}
